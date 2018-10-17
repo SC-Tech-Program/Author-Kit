@@ -8,5 +8,5 @@ lspci -v
 lshw
 lsblk -a
 lsscsi -s
-env | sort
+env
 module list
