@@ -4,6 +4,9 @@ This repository contains materials to help submitting authors of the SC Conferen
 
 ## AD/AE Appendix
 
+Artifact Description (AD) appendices are _required_ of all paper submissions to the SC19 Technical Program.
+Artifact Evaluation (AE) appendices are optional but encouraged. 
+
 The AD/AE Appendix will be automatically generated during submission, after the authors respond an online form. 
 All authors are encouraged to familiarize themselves with the questions in this form, with plenty of time before sumbission.
 See the PDF printout of the online form: [AD-AE-AppendixForm.pdf](https://github.com/SC-Tech-Program/Author-Kit/blob/master/AD-AE-AppendixForm.pdf)
