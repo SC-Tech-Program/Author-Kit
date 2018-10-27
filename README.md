@@ -6,7 +6,7 @@ This repository contains materials to help submitting authors of the SC Conferen
 
 The AD/AE Appendix will be automatically generated during submission, after the authors respond an online form. 
 All authors are encouraged to familiarize themselves with the questions in this form, with plenty of time before sumbission.
-See the PDF printout of the online form.
+See the PDF printout of the online form: [AD-AE-AppendixForm.pdf](https://github.com/SC-Tech-Program/Author-Kit/blob/master/AD-AE-AppendixForm.pdf)
 
 ## Reproducibility Resources
 
