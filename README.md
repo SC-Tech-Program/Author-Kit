@@ -1,5 +1,16 @@
 # Author-Kit
-**Instructions and templates for SC authors**
+
+This repository contains materials to help submitting authors of the SC Conference Technical Program.
+
+## AD/AE Appendix
+
+The AD/AE Appendix will be automatically generated during submission, after the authors respond an online form. 
+All authors are encouraged to familiarize themselves with the questions in this form, with plenty of time before sumbission.
+See the PDF printout of the online form.
+
+## Reproducibility Resources
+
+**Example script for machine-generated environment data**
 
 In an effort to facilitate preparing the SC Artifact Description appendix, we provide a sample Bash shell script, [`collect_environment.sh`](collect_environment.sh), that queries the operating system for a variety of information.  As written, the script is somewhat Linux-specific, but it should serve to provide ideas for similar scripts that run under other operating systems.  The script should be run on one of the nodes that was used to gather the paper's experimental data (i.e., a compute node, not a head node).
 
