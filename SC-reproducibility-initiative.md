@@ -111,4 +111,4 @@ Please visit the GitHub repository to find resources and answers to FAQs.
 https://github.com/SC-Tech-Program
 
 ---
-*— By the SC19 Reproducibility Chair, Lorena A. Barba, PhD, derived in part from the [SC18 Reproducibility Initiative](https://sc18.supercomputing.org/submit/sc-reproducibility-initiative/) web page.
+*— By the SC19 Reproducibility Chair, Lorena A. Barba, PhD, derived in part from the [SC18 Reproducibility Initiative](https://sc18.supercomputing.org/submit/sc-reproducibility-initiative/) web page.*
