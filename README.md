@@ -2,7 +2,7 @@
 
 This repository contains materials to help submitting authors of the SC Conference Technical Program.
 
-**Find answers to Frequently Asked Questions in the [`FAQs`](https://github.com/SC-Tech-Program/FAQs) repository.**
+> **Find answers to Frequently Asked Questions in the [`FAQs`](https://github.com/SC-Tech-Program/FAQs) repository.**
 
 ## AD/AE Appendix
 
