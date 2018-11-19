@@ -31,5 +31,6 @@ At the time of this writing, `collect_environment.sh` invokes the following comm
 * [`lsscsi`](https://linux.die.net/man/8/lsscsi): list all SCSI devices
 * [`env`](https://linux.die.net/man/1/env): list all environment variables currently in use
 * [`module list`](https://linux.die.net/man/1/module): list all loaded [Environment Modules](http://modules.sourceforge.net/)
+* [`nvidia-smi`](https://developer.nvidia.com/nvidia-system-management-interface): report characteristics and configuration of NVIDIA GPUs
 
 There is some redundancy in information provided by the preceding tools, but note that not every tools is available on every system.  The goal is to acquire as much information as possible on as many types of systems as possible.
