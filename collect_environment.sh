@@ -10,3 +10,4 @@ lsblk -a
 lsscsi -s
 env
 module list
+nvidia-smi
