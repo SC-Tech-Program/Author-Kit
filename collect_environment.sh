@@ -16,4 +16,5 @@ lsblk -a
 lsscsi -s
 module list
 nvidia-smi
+rocm-smi
 (lshw -short -quiet -sanitize || lspci) | cat

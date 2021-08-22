@@ -32,5 +32,6 @@ At the time of this writing, `collect_environment.sh` invokes the following comm
 * [`env`](https://linux.die.net/man/1/env): list all environment variables currently in use
 * [`module list`](https://linux.die.net/man/1/module): list all loaded [Environment Modules](http://modules.sourceforge.net/)
 * [`nvidia-smi`](https://developer.nvidia.com/nvidia-system-management-interface): report characteristics and configuration of NVIDIA GPUs
+* [`rocm-smi`](https://rocmdocs.amd.com/en/latest/ROCm_System_Managment/ROCm-SMI-CLI.html): list of the available AMD GPUs among temperature and other information
 
 There is some redundancy in information provided by the preceding tools, but note that not every tools is available on every system.  The goal is to acquire as much information as possible on as many types of systems as possible.
